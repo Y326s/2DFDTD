@@ -3,6 +3,7 @@ An electric current source in the strike direction
 $J_y\hat{y}=\hat{y}\delta(r-r_s)s(t)$
 , where 
 
+![image](https://github.com/user-attachments/assets/fd40eeb4-2c4a-446e-888c-7a6d3c006ea1)
 
 and $a_0=0.35322222$, $a_1=-0.448$, $a_2=0.145$, $a_3=-0.01022222$.
 
